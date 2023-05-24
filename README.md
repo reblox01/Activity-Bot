@@ -36,7 +36,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/88VT2Lk/Screenshot-1.png" alt="Activity-Bot" border="0"></a>
+<img src="https://i.ibb.co/88VT2Lk/Screenshot-1.png" alt="Activity-Bot" border="0">
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
