@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][license-url]
+<a href="https://github.com/REBLOX01/Activity-Bot/blob/master/LICENSE"><img alt="GitLab - MTA Licence" src="https://img.shields.io/gitlab/license/Activity-Bot?style=for-the-badge"></a>
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
@@ -9,18 +9,18 @@
 <br />
 <p align="center">
   <a href="https://github.com/REBLOX01/Activity-Bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
+  <img src="https://i.ibb.co/WKRVL42/unnamed.png" alt="unnamed" border="0">
   </a>
 
-  <h3 align="center">Discord-Bot</h3>
+  <h3 align="center">Rick's Activities</h3>
 
   <p align="center">
     Discord-bot is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
     <br />
     <br />
-    <a href="https://github.com/corwindev/discord-bot/issues">Report Bug</a>
+    <a href="https://github.com/REBLOX01/Activity-Bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/corwindev/discord-bot/issues">Request Feature</a>
+    <a href="https://github.com/REBLOX01/Activity-Bot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,7 +35,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://ibb.co/m47q60Y)](https://github.com/REBLOX01/Activity-Bot)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/88VT2Lk/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
@@ -54,7 +54,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <br />
 <p align="center">
   <a href="https://github.com/REBLOX01/Activity-Bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
+  <img src="https://i.ibb.co/RPdp1VF/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383636353135393331.jpg" alt="68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383636353135393331" border="0">
   </a>
 </p>
 
@@ -88,9 +88,9 @@ node src/index.js
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://prnt.sc/Iyf21wtWwzzm)](https://discord.gg/WC4pzN3TUt)
 
-[Support Server](https://discord.gg/WC4pzN3TUt) - Discord-Bot's Support Server Invite
+<a href="https://discord.gg/WC4pzN3TUt"><img src="https://i.ibb.co/VQ8y9b2/Untitled.png" alt="Activity-Bot's Support Server Invite" border="0"></a>
+</br>
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
@@ -106,4 +106,4 @@ npm run add-dev YOUR_ID
 
 [support-bot]: https://discord.gg/WC4pzN3TUt
 [invite-bot]: https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot
-[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
+[license-url]: https://github.com/REBLOX01/Activity-Bot/blob/master/LICENSE
