@@ -1,5 +1,6 @@
 <a href="https://github.com/REBLOX01/Activity-Bot/blob/master/LICENSE"><img alt="GitLab - MTA Licence" src="https://img.shields.io/gitlab/license/Activity-Bot?style=for-the-badge"></a>
-<center><img src="https://i.ibb.co/xqXvrqH/standard.gif" alt="" border="0" width="700px" ></center>
+
+<p align="center"><img src="https://i.ibb.co/yNsYBJy/standard-1.gif" alt="Activity Bot" border="0" ></p>
 
 <br />
 
@@ -9,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/REBLOX01/Activity-Bot">
-  <img src="https://i.ibb.co/WKRVL42/unnamed.png" alt="unnamed" border="0">
+  <img src="https://i.ibb.co/WKRVL42/unnamed.png" alt="Actvity Bot" border="0">
   </a>
 
   <h3 align="center">Rick's Activities</h3>
@@ -101,8 +102,6 @@ npm run add-dev YOUR_ID
 # Donate
 
  By Donating, You Will Help Me To Maintain This Project 
-
-<img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor]()
 
 [support-bot]: https://discord.gg/WC4pzN3TUt
 [invite-bot]: https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot
