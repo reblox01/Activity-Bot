@@ -1,21 +1,14 @@
-
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
 
-[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@lowder1/Activity-Bot)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/Discord-Bot">
+  <a href="https://github.com/REBLOX01/Activity-Bot">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
@@ -42,7 +35,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/corwindev/Discord-bot)
+[![Readme Card](https://ibb.co/m47q60Y)](https://github.com/REBLOX01/Activity-Bot)
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
@@ -56,11 +49,11 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Family
 - [x] Giveaways 
 - [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
+  <a href="https://github.com/REBLOX01/Activity-Bot">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
   </a>
 </p>
@@ -95,9 +88,9 @@ node src/index.js
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
+[![DiscordBanner](https://prnt.sc/Iyf21wtWwzzm)](https://discord.gg/WC4pzN3TUt)
 
-[Support Server](https://discord.gg/techpoint-1016942011024158782) - Discord-Bot's Support Server Invite
+[Support Server](https://discord.gg/WC4pzN3TUt) - Discord-Bot's Support Server Invite
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
@@ -111,15 +104,6 @@ npm run add-dev YOUR_ID
 
 <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/CorwinDev)
 
-[version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
-[version-url]: https://github.com/brblacky/WaveMusic
-[contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Corwindev/Discord-Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
-[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
+[support-bot]: https://discord.gg/WC4pzN3TUt
+[invite-bot]: https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot
 [license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
