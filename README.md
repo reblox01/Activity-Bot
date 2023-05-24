@@ -55,7 +55,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <br />
 <p align="center">
   <a href="https://github.com/REBLOX01/Activity-Bot">
-  <img src="https://i.ibb.co/NLfHY0t/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383636353135393331.png" alt="68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383636353135393331" border="0"></a>
+  <img src="https://i.ibb.co/NLfHY0t/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383636353135393331.png" alt="Screenshot" border="0"></a>
     <br />
   </a>
 </p>
