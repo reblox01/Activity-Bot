@@ -103,6 +103,9 @@ npm run add-dev YOUR_ID
 # Donate
 
  By Donating, You Will Help Me To Maintain This Project 
+ 
+ <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/REBLOX01)
+
 
 [support-bot]: https://discord.gg/WC4pzN3TUt
 [invite-bot]: https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot
