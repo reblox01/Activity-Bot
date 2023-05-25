@@ -37,20 +37,24 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
 <img src="https://i.ibb.co/88VT2Lk/Screenshot-1.png" alt="Activity-Bot" border="0">
+
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
-- [x] Slash Commands 
-- [x] Upto date with Discord.js v14
-- [x] Automod
-- [x] Custom Commands
-- [x] Music Commands
-- [x] Tickets
-- [x] Utility Commands
-- [x] Suggestions 
-- [x] Reaction Roles
-- [x] Family
-- [x] Giveaways 
-- [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot)
+
+- [x] Slash Commands <br>
+- [x] Upto date with Discord.js v14 <br>
+- [x] Automod<br>
+- [x] Custom Commands<br>
+- [x] Music Commands<br>
+- [x] Tickets<br>
+- [x] Utility Commands<br>
+- [x] Suggestions <br>
+- [x] Reaction Roles<br>
+- [x] Family<br>
+- [x] Giveaways <br>
+- [x] Easy to use<br>
+- [x] Don't wanna host it yourself? <a href="https://discord.com/api/oauth2/authorize?client_id=1049425609337606184&permissions=8&scope=applications.commands%20bot">Use our public bot</a></br>
+
+
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
@@ -102,9 +106,8 @@ npm run add-dev YOUR_ID
 ```
 # Donate
 
- By Donating, You Will Help Me To Maintain This Project 
- 
- <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/REBLOX01)
+ By Donating, You Will Help Me To Maintain This Project </br>
+ <a href="https://github.com/sponsors/REBLOX01"><img src="https://camo.githubusercontent.com/2bfa6102e99ff9a137185897b0a566aa0977a4790348c462e6951829e787af8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667" alt="Donate" data-canonical-src="https://img.shields.io/badge/Donate-PayPal-green.svg" style="max-width: 100%;" class="hoverZoomLink"></a>
 
 
 [support-bot]: https://discord.gg/WC4pzN3TUt
